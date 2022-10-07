@@ -1,0 +1,12 @@
+img{
+    display:block;
+    margin:auto; 
+}
+
+.card {
+    border: 1px solid #922B21;
+}
+#map {
+	height: 500px;
+	width: 100%;
+}
